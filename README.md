@@ -6,4 +6,4 @@ Esboço de uma simples api.
 
 # Ações disponiveis
 CRUD de produtos.
-Autenticação com Sanctum.
+Autenticação com Laravel-Sanctum.
